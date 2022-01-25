@@ -1,4 +1,4 @@
-package com.shchurov.webquizzes.controllers;
+package com.shchurov.webquizzes.controller;
 
 import com.shchurov.webquizzes.model.User;
 import com.shchurov.webquizzes.service.UserService;
